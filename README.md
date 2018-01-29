@@ -39,7 +39,7 @@ Chaque partie a ses responsabilités :
 
 > *Puisqu'une image vaut 1000 mots, je te fais un dessin*  :art:
 
-![rails_architecture](https://github.com/fannyhenno/2906/rails_architecture.png)
+![alt tag](https://github.com/fannyhenno/2901/blob/master/rails_architecture.png?raw=true)
 
 
 ## **Les Routes**
@@ -77,13 +77,13 @@ Les **Models** sont des intermédiaires qui permettent au **Controller** de vér
 LE **CRUD** permet la gestion d'une collection d'éléments à partir de **4 opérateurs** simples comme *par exemple* modifier des éléments dans la Base de Données. 
 
 **CRUD** pour être exact, c'est :
-```
+
 **C**reate : créer  :baby_bottle:
 **R**ead : lire  :book:
 **U**pdate : mettre à jour  :sun_with_face:
 **D**elete : supprimer  :hammer:
-```
 
-###### Voili, Voilou, **_Moussaillon_**  :neckbeard: ! Tu en *sais* un peu plus sur **RAILS** et tu vas pouvoir **_t'éclater_**  :rage:  :stuck_out_tongue_winking_eye:  :sweat_smile: pendant **3 semaines**  :joy: ! Mois je **pars à la fucking Plage  :stuck_out_tongue:**
+
+###### Voili, Voilou, **_Moussaillon_**  :neckbeard: ! Tu en *sais* un peu plus sur **RAILS** et tu vas pouvoir **_t'éclater_**  :rage:  :stuck_out_tongue_winking_eye:  :sweat_smile: pendant **3 semaines**  :joy: ! Moi je **pars à la fucking Plage  :stuck_out_tongue:**
 
 ###### **Fanny de la TEAM BALI**
