@@ -78,10 +78,10 @@ LE **CRUD** permet la gestion d'une collection d'éléments à partir de **4 op�
 
 **CRUD** pour être exact, c'est :
 
-**C**reate : créer  :baby_bottle:
-**R**ead : lire  :book:
-**U**pdate : mettre à jour  :sun_with_face:
-**D**elete : supprimer  :hammer:
+- **C**reate : créer  :baby_bottle:
+- **R**ead : lire  :book:
+- **U**pdate : mettre à jour  :sun_with_face:
+- **D**elete : supprimer  :hammer:
 
 
 ###### Voili, Voilou, **_Moussaillon_**  :neckbeard: ! Tu en *sais* un peu plus sur **RAILS** et tu vas pouvoir **_t'éclater_**  :rage:  :stuck_out_tongue_winking_eye:  :sweat_smile: pendant **3 semaines**  :joy: ! Moi je **pars à la fucking Plage  :stuck_out_tongue:**
